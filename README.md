@@ -1,4 +1,4 @@
-An addon for Godot. When enabled, it will create a version.json file that will look like this:
+An addon for Godot. When enabled, it will create a version.json file in res:// that will look like this, called version.json:
 
 {"version":"2026.03.12.04:36"}
 
